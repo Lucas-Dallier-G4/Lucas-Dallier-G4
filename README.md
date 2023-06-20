@@ -2,7 +2,7 @@
 
  
  <div align="start">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dallier-G4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![Slide 16_9 - 49](https://github.com/Lucas-Dallier-G4/Lucas-Dallier-G4/assets/117654012/2355b602-988d-47f0-956d-ae0bf555c1b6)
  </div>
   
   [![Linkedin Badge](https://img.shields.io/badge/-LucasDallier-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-dallier-arraes-68708a1b3//)](https://www.linkedin.com/in/lucas-dallier-arraes-68708a1b3//) 
